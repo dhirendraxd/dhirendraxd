@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dhirendraxd
+- 👋 Hi, I’m @dhirendra
 - 👀 I’m interested in progressive learning 
 - 🌱 I’m currently learning Front-End-WEB-Development 
 - 💞️ I’m looking to collaborate on "#"
