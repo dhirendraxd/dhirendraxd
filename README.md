@@ -10,7 +10,7 @@ I create secure digital solutions and work on cybersecurity, web development, an
 - 💻 **Part Time Developer** - Building secure applications with React.js, Python, and modern web technologies  
 - 🌱 **Sustainability Advocate** - Mentee at Sustainability Mentorship Program 2025
 - 🎯 **Community Leader** - Active in civic engagement, youth advocacy, and climate action
-- 🏆 **Hackathon Participant** - Multiple hackathon wins and innovative project developments
+- 🏆 **Hackathon Participant** - Multiple hackathon, innovative project developments
 
 ## 🛠️ Tech Stack
 
