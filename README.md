@@ -1,43 +1,78 @@
-# Hi there, I'm Dhirendra Singh Dhami 👋
+<!-- Typing SVG Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=1DE9B6&center=true&vCenter=true&width=600&lines=💻+Cybersecurity+Buff;☁️+Cloud+Explorer;🤖+Ethical+AI+Learner;⚙️+Full-Stack+Tinkerer;🔒+Secure+Code+Advocate" alt="Typing SVG" />
+</p>
 
-**Digital Creator • Tech Enthusiast • Innovation Advocate**
+# 👋 Hey there, I’m Dhirendra Singh Dhami  
 
-I create secure digital solutions and work on cybersecurity, web development, and sustainable tech projects. Passionate about ethical AI and digital innovation.
+**💻 Cybersecurity Buff • Full-Stack Tinkerer • Tech That Cares**
 
-## 🚀 About Me
+I build things that (hopefully) don’t break — and if they do, at least they’re secure.  
+Passionate about cybersecurity, ethical AI, and crafting digital solutions that actually help people.
 
-- 🔐 **Cybersecurity Enthusiast** - Specializing in security architecture, OAuth/OIDC, and digital forensics
-- 💻 **Part Time Developer** - Building secure applications with React.js, Python, and modern web technologies  
-- 🌱 **Sustainability Advocate** - Mentee at Sustainability Mentorship Program 2025
-- 🎯 **Community Leader** - Active in civic engagement, youth advocacy, and climate action
-- 🏆 **Hackathon Participant** - Multiple hackathon, innovative project developments
+---
 
-## 🛠️ Tech Stack
+## 🚀 About Me  
 
-### Security & Infrastructure
+- 🔐 **Cybersecurity Nerd** – Exploring penetration testing, digital forensics & threat analysis  
+- 💻 **Full-Stack Developer (by caffeine)** – React, Python, and the occasional backend chaos  
+- ☁️ **AWS Cloud Club Rep** – Helping students float securely in the cloud  
+- 🧠 **AI Explorer** – Interested in how to make machines *less evil*  
+- 🌱 **Sustainability-Driven Coder** – Because green code > bloated code  
+- 🏆 **Hackathon Survivor** – Been there, coded that, debugged till sunrise  
+
+---
+
+## 🛠️ Tech Stack  
+
+### ⚔️ Security & Cloud  
 ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-FF6B35?style=flat-square&logo=security&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nmap](https://img.shields.io/badge/-Nmap-00457C?style=flat-square&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FE7300?style=flat-square&logoColor=white)
 
-### Development
+### 🧩 Development & Frameworks  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-## 🏆 Recent Achievements
+### 💾 Databases & Tools  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-- 🥇 **CodeYatra Hackathon 2025** - Developed innovative solution in 36-hour competition
-- 📊 **PublicBodies Datathon 2025** - Promoted transparency through data validation
-- ☁️ **AWS Cloud Club Representative** - Selected CR for AWS Cloud Club Nepal
-- 🌍 **Climate Justice ToT** - Trained trainer in climate justice advocacy
-- 🎬 **Community Volunteer** - Nepal International Film Festival 2025, TEDxBaneshwor 2024
+---
 
-## 📈 GitHub Analytics
+## 🏆 Highlights  
+
+- ⚡ **CodeYatra Hackathon 2025** – Built a web app that didn’t crash under pressure 🎉  
+- 🕵️ **PublicBodies Datathon 2025** – Worked on open data transparency & validation  
+- ☁️ **AWS Cloud Club Nepal** – Official Campus Representative  
+- 🧑‍💻 **Ctrl Bits** – Currently contributing to web automation and secure app design  
+- 🔍 **Digital Security Trainee** – Learned to spot phishing faster than Gmail filters  
+
+---
+
+## 🎯 What I’m Up To  
+
+- 💣 **Learning Advanced Cybersecurity** – Because firewalls aren’t enough  
+- 🤖 **Building Ethical AI Tools** – Training AIs to behave better than humans  
+- ⚙️ **Experimenting with Convex & Supabase** – Backend magic without headaches  
+- 🌿 **Optimizing for Green Tech** – Saving the planet one less API call at a time  
+
+---
+
+## 📈 GitHub Analytics  
 
 <div align="center">
   
@@ -45,28 +80,22 @@ I create secure digital solutions and work on cybersecurity, web development, an
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhirendraxd&theme=react&hide_border=true)](https://github.com/dhirendraxd)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhirendraxd&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)](https://github.com/dhirendraxd)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhirendraxd&theme=react&hide_border=true&layout=compact)](https://github.com/dhirendraxd)
 
 </div>
 
-## 🎯 Current Focus
+---
 
-- 🔍 **Exploring Advanced Cybersecurity** - Deepening expertise in security architecture and digital forensics
-- 🤖 **Ethical AI Development** - Working on responsible AI implementations
-- 🌿 **Sustainable Technology** - Building eco-friendly digital solutions
-- 🏛️ **Digital Rights Advocacy** - Promoting ethical technology practices
+## 📫 Connect With Me  
 
-## 📫 Let's Connect
-
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.dhirendrasinghdhami.com.np/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhirendrasinghdhami)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dhirendraxd)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dhiren.foo/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhirendrasingh-dhami-204797285)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhirendradhami09@gmail.com)
 
 ---
 
 <div align="center">
-  <i>✨ "Building secure digital solutions for a better tomorrow" ✨</i>
+  <i>⚙️ “Securing the digital world, one bug at a time.” ⚙️</i>  
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=dhirendraxd&style=flat-square&color=blue" alt="Profile Views">
 </div>
