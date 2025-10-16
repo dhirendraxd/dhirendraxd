@@ -1,6 +1,6 @@
 <!-- Typing SVG Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=1DE9B6&center=true&vCenter=true&width=600&lines=💻+Cybersecurity+Buff;☁️+Cloud+Explorer;🤖+Ethical+AI+Learner;⚙️+Full-Stack+Tinkerer;🔒+Secure+Code+Advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1DE9B6&center=true&vCenter=true&width=600&lines=💻+Cybersecurity+Buff;☁️+Cloud+Explorer;🤖+Ethical+AI+Learner;⚙️+Full-Stack+Tinkerer;🔒+Secure+Code+Advocate" alt="Typing SVG" />
 </p>
 
 # 👋 Hey there, I’m Dhirendra Singh Dhami  
