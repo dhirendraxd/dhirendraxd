@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1DE9B6&center=true&vCenter=true&width=600&lines=💻+Cybersecurity+Buff;☁️+Cloud+Explorer;🤖+Ethical+AI+Learner;⚙️+Full-Stack+Tinkerer;🔒+Secure+Code+Advocate" alt="Typing SVG" />
 </p>
 
-# 👋 Hey there, I’m Dhirendra Singh Dhami  
+# 👋 Hey there, I’m Dhirendra  
 
 **💻 Cybersecurity Buff • Full-Stack Tinkerer • Tech That Cares**
 
