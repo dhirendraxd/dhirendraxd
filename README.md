@@ -1,74 +1,80 @@
 <!-- Typing SVG Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1DE9B6&center=true&vCenter=true&width=600&lines=💻+Cybersecurity+Buff;☁️+Cloud+Explorer;🤖+Ethical+AI+Learner;⚙️+Full-Stack+Tinkerer;🔒+Secure+Code+Advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1DE9B6&center=true&vCenter=true&width=600&lines=🔒+Application+Security+Specialist;☁️+Cloud+Explorer;🤖+Ethical+AI+Learner;⚙️+Full-Stack+Tinkerer;🛡️+OWASP+Top+10+Hunter" alt="Typing SVG" />
 </p>
 
-# 👋 Hey there, I’m Dhirendra  
+# 👋 Hey there, I'm Dhirendra  
 
-**💻 Cybersecurity Buff • Full-Stack Tinkerer • Tech That Cares**
+**🔐 Application Security Specialist • Full-Stack Tinkerer • Tech That Cares**
 
-I build things that (hopefully) don’t break — and if they do, at least they’re secure.  
-Passionate about cybersecurity, ethical AI, and crafting digital solutions that actually help people.
+I build things that (hopefully) don't break — and if they do, at least they're secure.  
+Passionate about application security, penetration testing, and crafting digital solutions that actually help people (and don't get pwned).
 
 ---
 
 ## 🚀 About Me  
 
-- 🔐 **Cybersecurity Nerd** – Exploring penetration testing, digital forensics & threat analysis  
-- 💻 **Full-Stack Developer (by caffeine)** – React, Python, and the occasional backend chaos  
+- 🛡️ **Application Security Specialist @ Shram Khata** – Breaking apps so you don't have to (OWASP Top 10, pentesting, Secure SDLC)  
+- 💻 **Full-Stack Developer (by caffeine)** – React, TypeScript, Python, and the occasional backend chaos  
 - ☁️ **AWS Cloud Club Rep** – Helping students float securely in the cloud  
-- 🧠 **AI Explorer** – Interested in how to make machines *less evil*  
-- 🌱 **Sustainability-Driven Coder** – Because green code > bloated code  
-- 🏆 **Hackathon Survivor** – Been there, coded that, debugged till sunrise  
+- 🧠 **AI Explorer** – Building ethical AI tools (because Skynet scenarios are overrated)  
+- 🌱 **Sustainability-Driven Coder** – Green code > bloated code, always  
+- 🏆 **Hackathon Survivor** – 100x, KIST HackFest, CodeYatra… coded till sunrise, survived on Red Bull  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-### ⚔️ Security & Cloud  
-![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-FF6B35?style=flat-square&logo=security&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nmap](https://img.shields.io/badge/-Nmap-00457C?style=flat-square&logoColor=white)
+### ⚔️ Security & Pentesting  
+![Application Security](https://img.shields.io/badge/-Application_Security-FF6B35?style=flat-square&logo=security&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FE7300?style=flat-square&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/-OWASP_ZAP-00549E?style=flat-square&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+
+### ☁️ Cloud & DevOps  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### 🧩 Development & Frameworks  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-### 💾 Databases & Tools  
+### 💾 Databases & Backend  
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ## 🏆 Highlights  
 
-- ⚡ **CodeYatra Hackathon 2025** – Built a web app that didn’t crash under pressure 🎉  
-- 🕵️ **PublicBodies Datathon 2025** – Worked on open data transparency & validation  
-- ☁️ **AWS Cloud Club Nepal** – Official Campus Representative  
-- 🧑‍💻 **Ctrl Bits** – Currently contributing to web automation and secure app design  
-- 🔍 **Digital Security Trainee** – Learned to spot phishing faster than Gmail filters  
+- 🔒 **Application Security Specialist @ Shram Khata** – Hunting bugs before they ship (Nov 2025–Present)  
+- 🎨 **100x Hackathon 2025 – Mitra Smart** – Built an AI-powered gov doc validator with Firebase + Hugging Face (team Control BIts)  
+- 🥉 **KIST HackFest 2025** – 3rd Place with an AI University Recommendation App  
+- ⚡ **CodeYatra Hackathon 2025** – DevBus: AI job readiness tool (React + Supabase + OpenAI)  
+- 🕵️ **PublicBodies Datathon 2025** – Data validation for civic tech transparency  
+- ☁️ **AWS Cloud Club Nepal** – Official Campus Representative (making clouds less scary)  
+- 🎓 **Civic Leadership Training** – 10-day intensive on ethics, democracy, development (Ganeshman Singh Foundation)  
+- 🌿 **Sustainability Mentorship Program** – Building tech that doesn't burn the planet  
 
 ---
 
-## 🎯 What I’m Up To  
+## 🎯 What I'm Up To  
 
-- 💣 **Learning Advanced Cybersecurity** – Because firewalls aren’t enough  
-- 🤖 **Building Ethical AI Tools** – Training AIs to behave better than humans  
-- ⚙️ **Experimenting with Convex & Supabase** – Backend magic without headaches  
-- 🌿 **Optimizing for Green Tech** – Saving the planet one less API call at a time  
+- 🛡️ **Pentesting All The Things** – OWASP Top 10 isn't just a checklist, it's a lifestyle  
+- 🤖 **Building Ethical AI Tools** – Teaching machines to behave better than humans (low bar, I know)  
+- 🔐 **Secure SDLC Evangelism** – Shifting security left so we don't shift blame later  
+- 🌿 **Green Tech Optimization** – Saving the planet one less API call at a time  
+- 📚 **Learning Advanced AppSec** – Because firewalls alone won't save us  
 
 ---
 
@@ -86,16 +92,37 @@ Passionate about cybersecurity, ethical AI, and crafting digital solutions that 
 
 ---
 
+## 🚀 Featured Projects  
+
+### 🏛️ [Mitra Smart](https://100x-hackathon.vercel.app/)  
+AI-powered government document validator with smart form-filling (React + Firebase + Hugging Face)  
+*Because paperwork shouldn't feel like punishment*
+
+### 🎓 [University Finder](https://kannun-2025.vercel.app/)  
+AI-driven university recommendation engine (React + TypeScript + Google Studio API)  
+*3rd Place @ KIST HackFest 2025*
+
+### 💼 [DevBus](https://devpost.com/software/devbus)  
+AI job readiness platform (React + Supabase + OpenAI API)  
+*Built @ CodeYatra Hackathon 2025*
+
+### 🌐 [Personal Portfolio](https://dhirendrasinghdhami.com.np/)  
+Fast, secure, privacy-first portfolio with performance obsession  
+*Vite + React + TypeScript + zero tracking (as it should be)*
+
+---
+
 ## 📫 Connect With Me  
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dhirendrasinghdhami.com.np/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhirendrasinghdhami/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhirendradhami09@gmail.com)
+[![Twitter/X](https://img.shields.io/badge/-Twitter/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/dhirendra_jsx)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhirendraxd@gmail.com)
 
 ---
 
 <div align="center">
-  <i>⚙️ “Securing the digital world, one bug at a time.” ⚙️</i>  
+  <i>🔐 "Breaking apps professionally so attackers can't break them maliciously." 🔐</i>  
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=dhirendraxd&style=flat-square&color=blue" alt="Profile Views">
 </div>
