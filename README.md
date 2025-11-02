@@ -19,7 +19,7 @@ Passionate about application security, penetration testing, and crafting digital
 - ☁️ **AWS Cloud Club Rep** – Helping students float securely in the cloud  
 - 🧠 **AI Explorer** – Building ethical AI tools (because Skynet scenarios are overrated)  
 - 🌱 **Sustainability-Driven Coder** – Green code > bloated code, always  
-- 🏆 **Hackathon Survivor** – 100x, KIST HackFest, CodeYatra… coded till sunrise, survived on Red Bull  
+- 🏆 **Hackathon Survivor** – 100x, KEC Hack-a-Lite, CodeYatra… coded till sunrise, survived on Red Bull  
 
 ---
 
