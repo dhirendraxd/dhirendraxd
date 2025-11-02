@@ -63,7 +63,6 @@ Passionate about application security, penetration testing, and crafting digital
 - ⚡ **CodeYatra Hackathon 2025** – DevBus: AI job readiness tool (React + Supabase + OpenAI)  
 - 🕵️ **PublicBodies Datathon 2025** – Data validation for civic tech transparency  
 - ☁️ **AWS Cloud Club Nepal** – Official Campus Representative (making clouds less scary)  
-- 🎓 **Civic Leadership Training** – 10-day intensive on ethics, democracy, development (Ganeshman Singh Foundation)  
 - 🌿 **Sustainability Mentorship Program** – Building tech that doesn't burn the planet  
 
 ---
