@@ -18,7 +18,6 @@ Passionate about application security, penetration testing, and crafting digital
 - 💻 **Full-Stack Developer (by caffeine)** – React, TypeScript, Python, and the occasional backend chaos  
 - ☁️ **AWS Cloud Club Rep** – Helping students float securely in the cloud  
 - 🧠 **AI Explorer** – Building ethical AI tools (because Skynet scenarios are overrated)  
-- 🌱 **Sustainability-Driven Coder** – Green code > bloated code, always  
 - 🏆 **Hackathon Survivor** – 100x, KEC Hack-a-Lite, CodeYatra… coded till sunrise, survived on Red Bull  
 
 ---
@@ -61,9 +60,8 @@ Passionate about application security, penetration testing, and crafting digital
 - 🎨 **100x Hackathon 2025 – Mitra Smart** – Built an AI-powered gov doc validator with Firebase + Hugging Face (team Control BIts)  
 - 🥉 **KIST HackFest 2025** – 3rd Place with an AI University Recommendation App  
 - ⚡ **CodeYatra Hackathon 2025** – DevBus: AI job readiness tool (React + Supabase + OpenAI)  
-- 🕵️ **PublicBodies Datathon 2025** – Data validation for civic tech transparency  
 - ☁️ **AWS Cloud Club Nepal** – Official Campus Representative (making clouds less scary)  
-- 🌿 **Sustainability Mentorship Program** – Building tech that doesn't burn the planet  
+
 
 ---
 
