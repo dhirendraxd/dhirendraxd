@@ -74,12 +74,4 @@ Supabase • PostgreSQL • SQLite
 - **DevBus** — AI job readiness  
 - **Portfolio** — Fast, minimal, tracking-free  
 
----
 
-## 🕸️ Cyber Particles (ASCII Cyber Rain)  
-```txt
-0101010011  ↘  
-      11001010 ↙  
-  001101 ▓▓▓ 0110  
-        ↘ 1010101  
-0101 ▓ SYSTEM BREACHED (jk) ▓ 1010
