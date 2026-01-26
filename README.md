@@ -110,7 +110,7 @@
 
 ## 🎓 Education & Tech Certs
 
-**Bachelor of Information Technology Management** — KIST College (2023–Present) 🎯
+**Bachelor of Information Technology Management** (2023–Present) 🎯
 
 **🏆 Tech Certifications:**
 - 🌐 Google Cybersecurity Professional
