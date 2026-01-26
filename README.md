@@ -153,26 +153,6 @@
 
 </div>
 
----
-
-## 🔥 The Tech Generalist Stack
-
-<div align="center">
-
-```
-╭─────────────────────────────────────────╮
-│  🎯 I Code Across Everything            │
-│  ├─ 💻 Frontend (React/TypeScript)      │
-│  ├─ 🔌 Backend (Node/Python)            │
-│  ├─ ☁️ Cloud (AWS/Docker)               │
-│  ├─ 🔐 Security (AppSec/OWASP)          │
-│  └─ 🌍 Civic Tech & Growth              │
-│                                         │
-│  Specialization? Not my jam. ❌         │
-│  Full-stack chaos? Absolutely. ✅       │
-╰─────────────────────────────────────────╯
-```
-
 **Made with ❤️ + caffeine by Dhirendra Singh Dhami (Dhiren)**
 
 *P.S. I'm always up for collabs on tech that matters. Let's build something cool! 🚀*
