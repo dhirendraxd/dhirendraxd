@@ -7,8 +7,6 @@
 **🔎 Digital Marketer • Full-Stack Developer • AppSec Enthusiast • Civic Tech Builder**  
 *I optimize growth, build things, break things securely, and code across everything.*
 
-**Keywords:** dhiren, dhirendra, digital marketer, seo, growth strategy, react developer, appSec, civic tech, full-stack developer, nepal
-
 ---
 
 ## ⚡ About Me
