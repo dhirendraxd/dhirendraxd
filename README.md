@@ -11,7 +11,7 @@
 
 ## ⚡ About Me
 
-- 📊 **Digital Marketing Manager @ [Ctrl Bits](https://www.ctrlbits.com/)** — SEO, growth experiments, analytics dashboards
+- 📊 **Digital Marketer @ [Ctrl Bits](https://www.ctrlbits.com/)** — SEO, growth experiments, analytics dashboards
 - 💻 **Full-Stack Developer** — React, TypeScript, Python, Node.js (powered by caffeine ☕)
 - 🛡️ **AppSec Enthusiast** — OWASP, pentesting, secure SDLC, vulnerability research
 - 🌍 **Civic Tech Builder** — Internet governance tech, digital infrastructure
