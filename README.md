@@ -17,7 +17,7 @@ GitHub is where I store **projects, prototypes, experiments, and things that sta
 
 # ⚡ What I Do
 
-- 📊 Work in **digital marketing & growth** at **Ctrl Bits**
+- 📊 Work in **digital marketing & growth** at **[Ctrl Bits](https://www.ctrlbits.com/)**
 - 💻 Build projects during **hackathons and experiments**
 - ⚙️ Use code to **automate marketing tasks and workflows**
 - 🤖 Combine **AI + manual coding** to build tools faster
