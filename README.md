@@ -1,158 +1,102 @@
 <p align="center">
-  <!-- Typing Banner with animations -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=📊+Digital+Marketer;💻+React+Builder;🛡️+Security+Tinkerer;☁️+Cloud+Explorer;🎯+Generalist;🌍+Civic+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=📊+Digital+Marketing+Operator;💻+Hackathon+Developer;⚙️+Builder+of+Useful+Tools;🤖+AI+Assisted+Coder;🌍+Tech+Generalist;🚀+Always+Building+Side+Projects" />
 </p>
 
-# 👋 Hey, I'm Dhirendra Singh Dhami
-**🔎 Digital Marketer • Full-Stack Developer • AppSec Enthusiast • Civic Tech Builder**  
-*I optimize growth, build things, break things securely, and code across everything.*
+# 👋 Hey, I'm Dhiren
+
+**📊 Digital Marketer  • 💻 Hackathon Developer • ⚙️ Building  Useful Tools**
+
+I work professionally in **digital marketing**, but development has always been part of how I solve problems.
+
+Sometimes that means writing scripts for **SEO automation**, building **analytics tools**, or developing small utilities for marketing workflows.  
+Other times it means building **full projects during hackathons or side experiments**.
+
+GitHub is where I store **projects, prototypes, experiments, and things that started as “this should take 20 minutes.”**
 
 ---
 
-## ⚡ About Me
+# ⚡ What I Do
 
-- 📊 **Digital Marketer @ [Ctrl Bits](https://www.ctrlbits.com/)** — SEO, growth experiments, analytics dashboards
-- 💻 **Full-Stack Developer** — React, TypeScript, Python, Node.js (powered by caffeine ☕)
-- 🛡️ **AppSec Enthusiast** — OWASP, pentesting, secure SDLC, vulnerability research
-- 🌍 **Civic Tech Builder** — Internet governance tech, digital infrastructure
-- ☁️ **Cloud & DevOps Tinkerer** — AWS, Docker, deployment automation
-- 🎯 **Hackathon Warrior** — Too many projects, infinite sleep debt
+- 📊 Work in **digital marketing & growth** at **Ctrl Bits**
+- 💻 Build projects during **hackathons and experiments**
+- ⚙️ Use code to **automate marketing tasks and workflows**
+- 🤖 Combine **AI + manual coding** to build tools faster
+- 📦 Use GitHub to **store projects, prototypes, and experiments**
 
----
-
-## 🎯 What I Do
-
-```
-╭──────────────────────────────────────────────────────╮
-│  💡 Frontend Dev    →  React, TypeScript, Tailwind  │
-│  🔌 Backend & APIs  →  Node.js, Python, Databases   │
-│  ☁️  Cloud & DevOps →  AWS, Docker, CI/CD Pipeline  │
-│  🔐 AppSec Testing  →  OWASP, Penetration, Secure   │
-│  🏛️  Civic Tech     →  Digital infrastructure tools │
-│  📈 Growth & SEO    →  Marketing analytics, funnels │
-╰──────────────────────────────────────────────────────╯
-```
-
-- 🚀 Building full-stack apps (React frontend, Node/Python backends, databases)
-- 📦 Deploying & scaling on AWS with Docker & automation
-- 🔒 Securing applications through OWASP practices & pentesting
-- 🛠️ Creating civic tech tools for digital infrastructure & governance
-- 📊 Optimizing digital marketing through data-driven SEO
-- ⚡ Breaking things professionally (with permission)
+In short: **marketing by profession, building things by curiosity.**
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Technologies I Use
 
-<table align="center">
-<tr>
-<td>
+### 💻 Development
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,html,css,tailwind,git" />
+</p>
 
-**Frontend** 🎨  
-`React 18` `TypeScript` `Tailwind CSS` `Vite`
+### ☁️ Platforms & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,vercel,firebase,supabase,github" />
+</p>
 
-**Backend** 🔌  
-`Node.js` `Python` `Firebase` `Supabase`
+### 📊 Marketing & Analytics
 
-</td>
-<td>
+SEO • Growth Experiments • Analytics Dashboards • Data Tracking  
 
-**Cloud & DevOps** ☁️  
-`AWS` `Docker` `Vercel` `GitHub Actions`
-
-**Security** 🔐  
-`Burp Suite` `OWASP ZAP` `Secure SDLC`
-
-**Databases** 🗄️  
-`PostgreSQL` `SQLite` `MongoDB`
-
-</td>
-</tr>
-</table>
+Basically: **a mix of marketing dashboards, web apps, and whatever tool solves the problem fastest.**
 
 ---
 
-## 🚀 Projects I Built
+# 🚀 Hackathon & Project Builds
 
-### 📊 Digital Marketing + Dev
-- **[Portfolio](https://dhirendrasinghdhami.com.np)** 🌐 — Fast, accessible, tracking-free site (React + Vite + tsparticles)
-- **Mitra Smart** 📄 — AI government document validation
-- **Edu Connect Global** 🎓 — AI university recommendation platform
+Some projects here are **fully working**, some are **prototypes**, and a few are **still evolving**.
 
-### 💻 Full-Stack & Tools
-- **DevBus** 💼 — AI job readiness tool
-- **Impactify** 🤝 — Volunteer management platform
-- **FreshMart** 🥬 — Local farmers marketplace
+That's the nature of hackathons and side builds — ideas move faster than polish.  
+Unlike some GitHub profiles where the README has more code than the repositories, the goal here is simple:
+
+**build things, ship experiments, improve later.**
 
 ---
 
-## 📈 GitHub Analytics
+- **[Upyog](https://github.com/dhirendraxd/upyog)** — Equipment rental marketplace connecting businesses with professional tools. *(KEC Hack a Lite 3.0)*  
+
+- **[VoiceLink](https://github.com/dhirendraxd/voicelink)** — Cloud platform for SMEs to send **bulk SMS and voice campaigns** with scheduling and analytics. *(Protobytes Hackathon 2.0 – 2025)*  
+
+- **[Mitra Smart](https://github.com/dhirendraxd/mitra-smart)** — AI-powered **government document validation and smart form filling assistant**. *(100x Nepal Hackathon 2025)*  
+
+- **[Edu Connect Global](https://github.com/dhirendraxd/edu-connect-global)** — AI system matching students with **best-fit universities using verified datasets**. *(KIST HackFest 2025 — 🥉 3rd Place)*  
+
+- **[DevBus](https://github.com/dhirendraxd/devbus)** — AI-powered **skill assessment platform for SME hiring and job readiness**. *(CodeYatra 2025)*  
+
+- **[Volunteer Recruitment Platform](https://github.com/dhirendraxd/volunteer-platform)** — Platform helping NGOs **post events and recruit volunteers**, including stipend disbursement support. *(KEC Hack-a-LITE 2024)*  
+
+---
+
+# 📊 GitHub Activity
 
 <div align="center">
 
-```
-╔════════════════════════════════════════════════════╗
-║  📊 GitHub Activity & Code Contributions 📊        ║
-╚════════════════════════════════════════════════════╝
-```
+<img src="https://github-readme-stats.vercel.app/api?username=dhirendraxd&theme=react&hide_border=true&show_icons=true" height="160"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=dhirendraxd&theme=react&hide_border=true&show_icons=true&count_private=true&bg_color=0d1117&title_color=3B82F6&text_color=c9cacc" height="160px" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=dhirendraxd&theme=react&hide_border=true" height="160"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=dhirendraxd&theme=react&hide_border=true&background=0d1117&stroke=3B82F6" height="160px" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhirendraxd&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=3B82F6&text_color=c9cacc" height="160px" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhirendraxd&layout=compact&theme=react&hide_border=true" height="160"/>
 
 </div>
 
----
-
-## 🎓 Education & Tech Certs
-
-**Bachelor of Information Technology Management** (2023–Present) 🎯
-
-**🏆 Tech Certifications:**
-- 🌐 Google Cybersecurity Professional
-- 📊 Google Digital Marketing & E-Commerce
-- 💡 Internet Governance Technology
-- 🤖 Future of AI Governance (Blue Dot Impact)
+A friendly reminder that **GitHub stats measure activity, not sleep quality.**
 
 ---
 
-## 🔧 Currently Building
+# 🌍 Connect With Me
 
-```
-🚀 ACTIVE TECH WORK
-├─ 💻 Full-stack web apps (React + Node + DBs)
-├─ 📊 Marketing analytics & performance dashboards
-├─ 🔐 Application security & vulnerability research
-├─ ☁️ Cloud deployment & DevOps automation
-└─ 🏛️ Civic tech & digital infrastructure tools
-```
+| Platform | Link |
+|---|---|
+| 🌐 Portfolio | https://dhirendrasinghdhami.com.np |
+| 💼 LinkedIn | https://www.linkedin.com/in/dhirendrasinghdhami |
+| 🐦 Twitter/X | https://x.com/dhirendra_jsx |
+| 📧 Email | dhirendraxd@gmail.com |
 
 ---
 
-## 💬 Let's Connect
-
-<div align="center">
-
-```
-╭─────────────────────────────────────╮
-│  🌐 Portfolio  💼 LinkedIn          │
-│  𝕏 Twitter     📧 Email             │
-╰─────────────────────────────────────╯
-```
-
-| 🔗 Connect With Me |
-|---|
-| 🌐 [dhirendrasinghdhami.com.np](https://dhirendrasinghdhami.com.np) |
-| 💼 [linkedin.com/in/dhirendrasinghdhami](https://www.linkedin.com/in/dhirendrasinghdhami/) |
-| 𝕏 [@dhirendra_jsx](https://x.com/dhirendra_jsx) |
-| 📧 dhirendraxd@gmail.com |
-
-</div>
-
-**Made with ❤️ + caffeine by Dhirendra Singh Dhami (Dhiren)**
-
-*P.S. I'm always up for collabs on tech that matters. Let's build something cool! 🚀*
-
-</div>
+**Built with curiosity, caffeine, and occasional chaos.**
