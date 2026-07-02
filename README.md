@@ -1,10 +1,7 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=📊+Digital+Marketing+Operator;💻+Hackathon+Developer;⚙️+Builder+of+Useful+Tools;🤖+AI+Assisted+Coder;🌍+Tech+Generalist;🚀+Always+Building+Side+Projects" />
-</p>
 
 # 👋 Hey, I'm Dhiren
 
-**📊 Digital Marketer  • 💻 Hackathon Developer • ⚙️ Building  Useful Tools**
+** 💻 Hackathon Developer • ⚙️ Building  Useful Tools**
 
 I work professionally in **digital marketing**, but development has always been part of how I solve problems.
 
